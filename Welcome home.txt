@@ -1,1 +1,2 @@
 print("Hello my dear");
+print("How do you do and Whats up");
